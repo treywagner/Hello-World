@@ -1,5 +1,5 @@
 # Hello-World
-Welcome to my attempt at a repository!
+Welcome to my editing repository!
 
 ## Table of Contents
 - [Project Title](https://github.com/treywagner/Hello-World/edit/main/README.md#project-title)
@@ -11,11 +11,11 @@ Welcome to my attempt at a repository!
 
 
 ## Project Title
-*Learning to Code*
+Is Coding Really Worth It?
 ## Description
-I have no clue what I want to make of this. Bear with me. 
+This is my edit of my main repository. Just practicing. 
 ## How to Run Program
-Um...
+Still do not quite understand the function and potential of GitHub
 ## Files Used
 Nothing fancy. 
 ## Additional Documentation
